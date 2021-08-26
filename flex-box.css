@@ -1,0 +1,24 @@
+
+.flexbox-container{
+   display: flex;
+
+}
+.flexbox-container div{
+    padding: 20px 20px 0px;
+    
+    
+}
+
+
+.flexbox-container .child{
+    background-color: green;
+
+}
+.flexbox-container .child-2{
+    background-color: hotpink;
+
+}
+.flexbox-container .child-3{
+
+    background-color: orange;
+}
